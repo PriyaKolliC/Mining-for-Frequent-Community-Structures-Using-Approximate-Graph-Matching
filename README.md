@@ -39,6 +39,6 @@ Phase 3: This phase of the algorithm focuses on comparing the communities genera
 
 <img src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" data-canonical-src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" width="800" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" data-canonical-src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" width="800" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" data-canonical-src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" width="400" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1pujBlKL2MFYbFEmXGJ91hINPcBnpyz5J" data-canonical-src="https://drive.google.com/uc?export=view&id=1pujBlKL2MFYbFEmXGJ91hINPcBnpyz5J" width="800" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1pujBlKL2MFYbFEmXGJ91hINPcBnpyz5J" data-canonical-src="https://drive.google.com/uc?export=view&id=1pujBlKL2MFYbFEmXGJ91hINPcBnpyz5J" width="400" height="auto" />
