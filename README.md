@@ -6,4 +6,4 @@
 
 The algorithms works in three phases as shown below:
 
-![AlgoPhases](https://drive.google.com/file/d/1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe/view?usp=sharing)
+<a href="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe"><img src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
