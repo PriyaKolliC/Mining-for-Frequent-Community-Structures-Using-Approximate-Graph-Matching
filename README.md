@@ -6,7 +6,7 @@
 
 > The algorithms works in three phases as shown below:
 
-<img src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" width="600" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" data-canonical-src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" width="600" height="auto" />
 
 > Consider the dataset shown below:
 
