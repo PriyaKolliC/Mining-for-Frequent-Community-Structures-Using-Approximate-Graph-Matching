@@ -16,7 +16,7 @@
 ---
 ---
 @settings{
-font-size:12;
+font-size: 12px;
 }
 Phase 1: Below are the candidates generated for the dataset shown above at different time steps of by implementing Random Walks and Markovian Clustering
 
