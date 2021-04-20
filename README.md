@@ -14,7 +14,7 @@
 
 ---
 
-    Phase 1: Below are the candidates generated for the dataset shown above at different time steps of by implementing Random Walks and Markovian Clustering
+    Phase 1: Below are the candidates generated for the dataset shown above at different time steps by implementing Random Walks and Markovian Clustering
 
 
 <img src="https://drive.google.com/uc?export=view&id=1n9nOmn6gbTM6Io6PnDC7J40HpbAupVWF" data-canonical-src="https://drive.google.com/uc?export=view&id=1n9nOmn6gbTM6Io6PnDC7J40HpbAupVWF" width="500" height="auto" />
@@ -35,7 +35,6 @@
 
 
 ---
----
 
     Phase 3: This phase of the algorithm focuses on comparing the communities generated at phase 2 and determining the extent of matching between them.
 
@@ -46,7 +45,23 @@
 <img src="https://drive.google.com/uc?export=view&id=1CUT-mdokAL4eMzDiAj8hp9y1vVFCgrzo" data-canonical-src="https://drive.google.com/uc?export=view&id=1CUT-mdokAL4eMzDiAj8hp9y1vVFCgrzo" width="500" height="auto" />
 
 <img src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" data-canonical-src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" width="500" height="auto" />
-
+---
+    Different communities from the graph dataset are matched and the extent of similarity between them is calculated.
 <img src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" data-canonical-src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" width="400" height="auto" />
 
 <img src="https://drive.google.com/uc?export=view&id=1pujBlKL2MFYbFEmXGJ91hINPcBnpyz5J" data-canonical-src="https://drive.google.com/uc?export=view&id=1pujBlKL2MFYbFEmXGJ91hINPcBnpyz5J" width="400" height="auto" />
+
+---
+
+Most of the Frequent Subgraph Mining algorithms need us to specify a Support/Threshold value to determine Frequent Subgraphs. 
+If support = 3, then the subgraphs that occur 3 or more number of times are extracted from the dataset
+If support = 4, then the subgraphs that occur 4 or more number of times are extracted from the dataset
+
+Our approach introduces a unique metric similar to Support in FSM algorithms i.e. Deviation Tolerance.
+If allowed deviation = 20%, then the subgraphs that have more number of graphs within 20% of deviation level are extracted from the given dataset.
+
+The ultimate output of our approach on the above shown dataset is as follows:
+<img src="https://drive.google.com/uc?export=view&id=1xXQrMQ0rAPZXSI8mzvLqzSx10ddhpl3E" data-canonical-src="https://drive.google.com/uc?export=view&id=1xXQrMQ0rAPZXSI8mzvLqzSx10ddhpl3E" width="400" height="auto" />
+
+
+
