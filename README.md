@@ -12,6 +12,8 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" data-canonical-src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" width="600" height="auto" />
 
+---
+
 > Phase 1: Below are the candidates generated for the dataset shown above at different time steps of by implementing Random Walks and Markovian Clustering
 
 
