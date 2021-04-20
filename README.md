@@ -31,13 +31,13 @@ The signature to each community/cluster in the above table shows the "probabilit
 
 Phase 3: This phase of the algorithm focuses on comparing the communities generated at phase 2 and determining the extent of matching between them.
 
-<img src="https://drive.google.com/uc?export=view&id=1q5sQt0YNG7-pGVubMbbzbFEFT5wKFzZK" data-canonical-src="https://drive.google.com/uc?export=view&id=1q5sQt0YNG7-pGVubMbbzbFEFT5wKFzZK" width="800" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1q5sQt0YNG7-pGVubMbbzbFEFT5wKFzZK" data-canonical-src="https://drive.google.com/uc?export=view&id=1q5sQt0YNG7-pGVubMbbzbFEFT5wKFzZK" width="500" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1O14QssktzkiAHrasY4R9ffU0t0eL0s_e" data-canonical-src="https://drive.google.com/uc?export=view&id=1O14QssktzkiAHrasY4R9ffU0t0eL0s_e" width="800" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1O14QssktzkiAHrasY4R9ffU0t0eL0s_e" data-canonical-src="https://drive.google.com/uc?export=view&id=1O14QssktzkiAHrasY4R9ffU0t0eL0s_e" width="500" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1CUT-mdokAL4eMzDiAj8hp9y1vVFCgrzo" data-canonical-src="https://drive.google.com/uc?export=view&id=1CUT-mdokAL4eMzDiAj8hp9y1vVFCgrzo" width="800" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1CUT-mdokAL4eMzDiAj8hp9y1vVFCgrzo" data-canonical-src="https://drive.google.com/uc?export=view&id=1CUT-mdokAL4eMzDiAj8hp9y1vVFCgrzo" width="500" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" data-canonical-src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" width="800" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" data-canonical-src="https://drive.google.com/uc?export=view&id=1a1_GeKT2qbhKBbfiyt5W9Qd1NTWIjf_F" width="500" height="auto" />
 
 <img src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" data-canonical-src="https://drive.google.com/uc?export=view&id=1Q_q1S1fqf441bN809Z5i-bkSLRsctJ_z" width="400" height="auto" />
 
