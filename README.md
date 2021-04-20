@@ -9,20 +9,15 @@ The algorithms works in three phases as shown below:
 
 Consider the dataset shown below:
 
-
 <img src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" data-canonical-src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" width="600" height="auto" />
 
-### Phase 1: Below are the candidates generated for the dataset shown above at different time steps of by implementing Random Walks and Markovian Clustering
+Phase 1: Below are the candidates generated for the dataset shown above at different time steps of by implementing Random Walks and Markovian Clustering
 
 
-<img src="https://drive.google.com/uc?export=view&id=1n9nOmn6gbTM6Io6PnDC7J40HpbAupVWF" data-canonical-src="https://drive.google.com/uc?export=view&id=1n9nOmn6gbTM6Io6PnDC7J40HpbAupVWF" width="600" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1n9nOmn6gbTM6Io6PnDC7J40HpbAupVWF" data-canonical-src="https://drive.google.com/uc?export=view&id=1n9nOmn6gbTM6Io6PnDC7J40HpbAupVWF" width="500" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1fAwTER2fhXkfltrmEHuK32Q06o8x_amf" data-canonical-src="https://drive.google.com/uc?export=view&id=1fAwTER2fhXkfltrmEHuK32Q06o8x_amf" width="600" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1fAwTER2fhXkfltrmEHuK32Q06o8x_amf" data-canonical-src="https://drive.google.com/uc?export=view&id=1fAwTER2fhXkfltrmEHuK32Q06o8x_amf" width="500" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1vn29C0Ps73Scz0wrxMqu-f4e0icVDmds" data-canonical-src="https://drive.google.com/uc?export=view&id=1vn29C0Ps73Scz0wrxMqu-f4e0icVDmds" width="600" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1vn29C0Ps73Scz0wrxMqu-f4e0icVDmds" data-canonical-src="https://drive.google.com/uc?export=view&id=1vn29C0Ps73Scz0wrxMqu-f4e0icVDmds" width="500" height="auto" />
 
-<img src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" data-canonical-src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" width="600" height="auto" />
-
-<img src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" data-canonical-src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" width="600" height="auto" />
-
-<img src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" data-canonical-src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" width="600" height="auto" />
+<img src="https://drive.google.com/uc?export=view&id=1WEFZ_y6mqB9Vr16yUf5fcTgPJeYLfli5" data-canonical-src="https://drive.google.com/uc?export=view&id=1WEFZ_y6mqB9Vr16yUf5fcTgPJeYLfli5" width="600" height="auto" />
