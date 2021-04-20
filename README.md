@@ -37,21 +37,21 @@
 
     Phase 3: This phase of the algorithm focuses on comparing the communities generated at phase 2 and determining the extent of matching between them.
 
-<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-1.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-1.PNG" width="500" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-1.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-1.PNG" width="500" height="auto" />
 
-<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-2.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-2.PNG" width="500" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-2.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-2.PNG" width="500" height="auto" />
 
-<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-3.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-3.PNG" width="500" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-3.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-3.PNG" width="500" height="auto" />
 
-<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-4.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-4.PNG" width="500" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-4.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-4.PNG" width="500" height="auto" />
 
 
 ---
     Different communities from the graph dataset are matched and the extent of similarity between them is calculated.
 
-<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-5.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-5.PNG" width="400" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-5.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-5.PNG" width="400" height="auto" />
 
-<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-6.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase3-6.PNG" width="400" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-6.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase%3-6.PNG" width="400" height="auto" />
 
 ---
 
