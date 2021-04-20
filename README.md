@@ -9,8 +9,7 @@
 <img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phases%20of%20Algorithm.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phases%20of%20Algorithm.PNG" width="600" height="auto" />
 
 > Consider the dataset shown below:
-
-<img src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" data-canonical-src="https://drive.google.com/uc?export=view&id=1m02Ek4liJJlhHozJdwUJaIWQwSgpFveV" width="600" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase1.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Phase1.PNG" width="600" height="auto" />
 
 ---
 
