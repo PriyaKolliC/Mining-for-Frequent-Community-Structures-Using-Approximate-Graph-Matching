@@ -56,15 +56,15 @@
 ---
 
 Most of the Frequent Subgraph Mining algorithms need us to specify a Support/Threshold value to determine Frequent Subgraphs. <br/>
-If support = 3, then the subgraphs that occur 3 or more number of times are extracted from the dataset<br/>
-If support = 4, then the subgraphs that occur 4 or more number of times are extracted from the dataset<br/>
+* *If support = 3, then the subgraphs that occur 3 or more number of times are extracted from the dataset<br/>
+* *If support = 4, then the subgraphs that occur 4 or more number of times are extracted from the dataset<br/>
 
 Our approach introduces a unique metric similar to Support in FSM algorithms i.e. Deviation Tolerance.<br/>
-If allowed deviation = 20%, then the subgraphs that have more number of graphs within 20% of deviation level are extracted from the given dataset.<br/>
+* *If allowed deviation = 20%, then the subgraphs that have more number of graphs within 20% of deviation level are extracted from the given dataset.<br/>
 
 The ultimate output of our approach on the above shown dataset is as follows:
 
-<img src="https://drive.google.com/uc?export=view&id=1xXQrMQ0rAPZXSI8mzvLqzSx10ddhpl3E" data-canonical-src="https://drive.google.com/uc?export=view&id=1xXQrMQ0rAPZXSI8mzvLqzSx10ddhpl3E" width="400" height="auto" />
+<img src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Final.PNG" data-canonical-src="https://github.com/PriyaKolliC/Mining-for-Frequent-Community-Structures-Using-Approximate-Graph-Matching/blob/master/Final.PNG" width="400" height="auto" />
 
 Hence, C5, C6, C4, C7 and C9 are the most frequently occuring approximately matching patterns in the given dataset.
 
