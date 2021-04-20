@@ -6,5 +6,5 @@
 
 The algorithms works in three phases as shown below:
 
-<a href="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe"><img src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" style="width:200; height: auto" title="Click to enlarge picture" />
-<img src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" data-canonical-src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" width="200" height="400" />
+
+<img src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" data-canonical-src="https://drive.google.com/uc?export=view&id=1sSDOCDaWGq4g7q4Gm1laO7wipAusrOPe" width="500" height="auto" />
